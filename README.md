@@ -1,2 +1,3 @@
 # Iceland2016
 Iceland Gravity waves for flight B988
+This project aims at ... 
